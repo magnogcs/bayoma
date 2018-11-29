@@ -1,0 +1,40 @@
+.masthead{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: url(../img/quem-somos/Image-Quem\ somos.png);
+    background-position: center;
+    background-repeat: no-repeat;    
+    background-size: cover;
+}
+
+.section-nossa-historia div .container-title-nossa-historia{
+    background-color: #0C301F;
+    padding: 1%;
+    border-radius:  18px 18px 0px 0px;
+    margin-bottom: 2%;
+}
+
+.section-nossa-historia div .container-title-nossa-historia span{   
+    color: #A8D135;
+}
+
+.section-nossa-historia div div .text-nossa-historia{
+    color: #0C301F;
+    margin-bottom: 7%;
+
+}
+    
+@media only screen and (max-width: 600px) { 
+    
+    .icon-menu  i{
+        font-size: 35px;
+        cursor: pointer;
+        margin-top: 10% !important;
+    }
+
+    .container-text-nossa-historia{
+        padding: 0px !important;
+    }
+
+}

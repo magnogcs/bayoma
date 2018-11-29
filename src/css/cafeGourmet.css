@@ -1,0 +1,21 @@
+.section-servicos{
+    margin-bottom: 0% !important;
+}
+
+.section-nossa-historia div div .text-nossa-historia{
+    font-size: 15px;
+    margin-bottom: 5%;
+}
+
+.slick-prev:before, .slick-next:before{
+    color: black !important;
+}
+
+.your-class div img{
+    width: 100%;
+    margin-bottom: 7%;
+}
+
+.slick-dots li button{
+    color: black !important;
+}

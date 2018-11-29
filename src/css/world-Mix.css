@@ -1,0 +1,39 @@
+.contiainer-input{
+    padding-right: 11% !important;
+    padding-left: 11% !important;
+    padding-top: 11% !important;
+    margin-top: -4% !important;
+    position: relative !important;
+    margin-bottom: 8% !important;
+}
+
+.container-btn-receber-noticias{
+    left: 62%;
+}
+
+.section-nos-siga div .border-opcatity{
+    width: 40% !important;
+    height: 2px;
+    background-color: #8A8F9D;
+    opacity: 0.3;
+}
+
+@media only screen and (max-width: 600px) {     
+    .container-title-nossa-historia{
+        width: 80% !important;
+        height: 70px;
+        border-radius:  0px 0px 18px 18px !important;
+    }
+    .container-bayoma-soul{
+        margin-top: 0px !important;
+    }
+  
+    .container-text-nossa-historia{
+        padding: 0px !important;
+        margin-top: 5%;
+    }
+    .container-horario-funcionamento span{
+        font-size: 13px !important;
+    }
+        
+}
